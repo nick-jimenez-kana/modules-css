@@ -1,7 +1,0 @@
-global-desing:
-  css:
-    theme:
-      css/estilos-mobile.css: {}
-      css/estilos-escritorio.css: {}
-  js:
-    js/scripts.js: {}
